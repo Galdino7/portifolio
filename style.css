@@ -161,3 +161,21 @@ section{
     border-radius: 10px;
     width: 50px;
 }
+
+.pagina:hover{
+    color: rgb(197, 248, 42);
+    background-color: rgb(13, 27, 42);
+    border-radius: 10px;
+   box-shadow: black 0 0 10px;
+}
+
+h1:hover{
+    text-align: center;
+    color: red;
+}
+
+#projeto-img:hover{
+    scale: 1.1;
+    box-shadow: white 0px 0px 10px;
+    border-radius: 10px;
+}
